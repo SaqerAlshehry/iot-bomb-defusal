@@ -6,6 +6,15 @@ This project is an intense, multiplayer IoT game where players race against time
 
 One ESP32 acts as the **Bomb Brain** (displaying sequences and emitting a panic-inducing countdown timer), while a second ESP32 acts as the **Defusal Pad** (where players punch in the sequence). A Python-based **Mission Control Dashboard** tracks live attempts, user inputs, and win/loss statistics.
 
+
+---
+
+## 🎥 Demo
+
+Watch the demo here:
+
+🔗 https://drive.google.com/file/d/1R_WJnIpArOTrkO8wQty6MGMlLd72S7f2/view?usp=sharing
+
 ---
 
 ## 🚀 Key Features
